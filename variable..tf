@@ -1,11 +1,9 @@
-variable "enviroment" {
+variable "ENVIRONMENT" {
   default = "dev"
 }
-variable "Region" {
+variable "REGION" {
   default = "us-east-1"
 }
-variable "instance_Type" {
+variable "INSTANCE_TYPE" {
   default = "t2-micro"
 }
-
-
