@@ -1,5 +1,5 @@
 variable "ENVIRONMENT" {
-  default = "dev"
+  default = "production"
 }
 variable "REGION" {
   default = "us-east-1"
